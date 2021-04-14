@@ -1,4 +1,4 @@
-<img src="me.png" height="150px" align="right" />
+<img src="me.png" height="120px" align="right" />
 
 ### Heya, I'm Jiahua. 👋
 
