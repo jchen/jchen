@@ -2,13 +2,15 @@
 
 ### Heya, I'm Jiahua. 👋
 
-I'm a student at Brown studying Applied Math, Computer Science and Visual Arts. I also love design, photography, and data journalism. 
+I'm a student at Brown studying Math, Computer Science and Visual Arts. I also love design, photography, and data journalism. 
 
 - 😄 My pronouns are he/him/his.
 - 📫 My email is in the sidebar of GitHub. 
-- 📷 You can find some of my photos [here](https://jiahua.io/photo).
 - 🗺️ Take a look at [Districtr](https://districtr.org/)! I've previously contributed extensively to voter rights and districting/gerrymandering research. This includes [data collection](https://districtr.org/nebraska) and [theoretical research](https://arxiv.org/abs/1911.09792). 
 - 🔧 I like [hackathons](https://devpost.com/Jiahua) (occasionally). Reach out if you wanna work with me on anything! 
+
+<!-- Deleted photo link: -->
+<!-- - 📷 You can find some of my photos [here](https://jiahua.io/photo). -->
 
 <!--
 **jchen/jchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
