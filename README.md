@@ -8,6 +8,7 @@ I'm a student at Brown studying Math, Computer Science and Visual Arts. I also l
 - 📫 My email is in the sidebar of GitHub. 
 - 🗺️ Take a look at [Districtr](https://districtr.org/)! I've previously contributed extensively to voter rights and districting/gerrymandering research. This includes [data collection](https://districtr.org/nebraska) and [theoretical research](https://arxiv.org/abs/1911.09792). 
 - 🔧 I like [hackathons](https://devpost.com/Jiahua) (occasionally). Reach out if you wanna work with me on anything! 
+- 🖊️ I take course notes for math courses at Brown and they are public: [Math 1560](https://chen.land/math1560-notes/notes.pdf); [Math 1580](https://chen.land/math1580-notes/notes.pdf). 
 
 <!-- Deleted photo link: -->
 <!-- - 📷 You can find some of my photos [here](https://jiahua.io/photo). -->
